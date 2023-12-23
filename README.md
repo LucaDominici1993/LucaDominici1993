@@ -45,9 +45,12 @@ Open-source analytics tools development
 
 ## 📫 How to reach me ...
 LinkedIn: [https://www.linkedin.com/in/luca-dominici-5ba94818a/]
+
 Email: [luca_dominici_93@live.it]
+
 GitHub: https://github.com/LucaDominici1993
-🌟 Conclusion
+
+## 🌟 Conclusion
 I am excited to bring my skills and passion for data analytics to a professional environment. My goal is to contribute significantly to an organization's success through detailed and informed data analysis.
 
 
