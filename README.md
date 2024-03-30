@@ -1,3 +1,60 @@
+## 👋 Hola, soy Luca Dominici
+## 🚀 Introducción
+¡Hola a todos! Soy un Analista de Datos Junior, recientemente graduado de un curso intensivo de 6 meses en Análisis de Datos en EPICODE ACADEMY. Mi formación me ha proporcionado una base sólida, tanto teórica como práctica, en las tecnologías y metodologías más avanzadas en el campo.
+
+## 💼 Experiencia Académica
+Escuela de Educación Avanzada en Análisis de Datos - EPICODE ACADEMY (6 Meses)
+Mi trayecto en EPICODE ACADEMY ha sido una aventura enriquecedora y desafiante, preparándome para entrar en el mundo del análisis de datos con habilidades y conocimientos de alto nivel.
+
+## 🛠️ Habilidades Técnicas
+
+## Microsoft Excel 📊
+Tablas dinámicas: Capacidad para organizar y analizar conjuntos de datos complejos.
+Power Query: Habilidad para importar y transformar datos de múltiples fuentes.
+Power Pivot: Experiencia en crear modelos de datos avanzados y análisis multidimensional.
+
+## Lenguaje SQL (MySQL)🗄️
+Diseño y gestión de bases de datos relacionales.
+Habilidades en la ejecución de consultas complejas para la extracción y manipulación de datos.
+
+## Lenguaje Python 🐍
+Jupyter Notebook: Uso para la codificación y visualización de datos.
+Numpy & Pandas: Procesamiento y análisis de grandes conjuntos de datos.
+Matplotlib: Creación de gráficos e interactivos visualizaciones de datos.
+
+## Google Looker Studio🔍
+Habilidades en el desarrollo de tableros y reportes para la visualización de datos.
+Power BI 🔋💡
+Experiencia en la creación de reportes interactivos y tableros de control, ofreciendo insights y análisis en profundidad.
+
+## 👀 Estoy interesado en...
+Toma de decisiones basada en datos
+Aplicaciones de aprendizaje automático e IA en análisis de datos
+Explorar nuevas tecnologías en big data
+
+## 🌱 Actualmente estoy aprendiendo...
+Técnicas avanzadas en aprendizaje automático
+Procesamiento de big data con Apache Spark
+Analítica de datos basada en la nube
+Profundizando mi conocimiento en Python y SQL para el análisis de datos
+
+## 💞️ Busco colaborar en...
+Proyectos de análisis de datos
+Iniciativas de aprendizaje automático
+Desarrollo de herramientas analíticas de código abierto
+
+## 📫 Cómo contactarme...
+LinkedIn: [https://www.linkedin.com/in/luca-dominici-5ba94818a/]
+
+Email: [luca_dominici_93@live.it]
+
+GitHub: https://github.com/LucaDominici1993
+
+## 🌟 Conclusión
+Estoy emocionado de aportar mis habilidades y pasión por el análisis de datos a un entorno profesional. Mi objetivo es contribuir significativamente al éxito de una organización a través de un análisis de datos detallado e informado.
+
+
+
 ## 👋 Hi, I’m Luca Dominici
 ## 🚀 Introduction
 Hello everyone!!! I am a Junior Data Analyst, recently graduated from an intensive 6-month course in Data Analysis at EPICODE ACADEMY. My training has provided me with a solid theoretical and practical foundation in the most advanced technologies and methodologies in the field.
@@ -52,5 +109,7 @@ GitHub: https://github.com/LucaDominici1993
 
 ## 🌟 Conclusion
 I am excited to bring my skills and passion for data analytics to a professional environment. My goal is to contribute significantly to an organization's success through detailed and informed data analysis.
+
+
 
 
